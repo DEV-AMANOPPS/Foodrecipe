@@ -1,0 +1,10 @@
+input{
+    width: 20rem;
+    background-color: rgb(8, 7, 7);
+    border: none;
+    color: white;
+}
+
+input:focus{
+    outline: none;
+}
